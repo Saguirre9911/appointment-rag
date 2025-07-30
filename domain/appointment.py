@@ -45,4 +45,3 @@ class Appointment:
             "datetime": self.datetime.isoformat(),
             "notes": self.notes or ""
         }
-        }
